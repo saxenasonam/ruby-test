@@ -1,9 +1,8 @@
 puts "method started"
-
-def hello()
+#hello1
+def hello1
 	puts "hello world"	
 	
 end
-hello()
-name = []
-name = { }
+hello1
+#hello2
