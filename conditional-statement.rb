@@ -19,6 +19,6 @@ def conditional_method(values)
 	
 end
 
-#values = "html"
+values = "html"
 conditional_method(values)
 
